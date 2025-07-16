@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="500" alt="Bombastico" src="https://github.com/user-attachments/assets/b67bac64-4d93-4ec4-8629-09001adc3ddf" />
+  <img width="1246" height="588" alt="Tiitulo" src="https://github.com/user-attachments/assets/a6db73cf-2fd4-4776-8183-574dd30aadca" />
+
   <br><br>
 </div>
 
