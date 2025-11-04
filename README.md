@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Versión-1.0-green" /> 
-  <img src="https://img.shields.io/badge/Framework-Phaser_3-blue" /> 
+  <img src="https://img.shields.io/badge/Framework-Godot-blue" /> 
   <img src="https://img.shields.io/badge/Fecha_de_publicación-Junio_2025-ligthgreen" /> 
 </p>
 
